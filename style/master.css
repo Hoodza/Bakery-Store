@@ -1,0 +1,259 @@
+/* start of global style */
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style-type: none;
+}
+body {
+    font-family: "Alegreya Sans"
+}
+/* end of global style */
+
+.transform {
+    text-transform: capitalize;
+}
+
+.repeation1 {
+    width: 80%;
+    margin: 47px auto;
+    overflow: auto;
+    padding: 37px;
+}
+
+.clr {
+    clear: both;
+}
+
+.div-width-float {
+    width: 50%;
+    float: left;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.image-width {
+    width: 100%;
+}
+
+.color-black {
+    color: black;
+}
+
+.text-light {
+    color: white;
+}
+
+.float-left {
+    float: left;
+}
+
+.float-right {
+    float: right;
+}
+
+.overflow-auto {
+    overflow: auto;
+}
+
+/* section zero one */
+
+.container0 {
+    background-color: white;
+    position: fixed;
+    left: 0%;
+    right: 0%;
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+
+.texting-buttons {
+    padding-top: 350px;
+    font-family: "Alegreya Sans"
+}
+
+.texting-buttons h1 {
+    font-size: 70px;
+}
+
+.texting-buttons p {
+    font-size: 25px;
+}
+
+.nav-links a {
+    font-size: large;
+}
+
+.ul-float {
+    margin-right: 135px;
+    margin-top: 10px;
+}
+
+.repeat3 {
+    margin-right: 25px;
+    margin-left: 25px;
+}
+
+.nav-links {
+    margin-left: 150px;
+}
+
+.c-change:hover {
+    color: #8e7754;
+}
+
+.section-zero-one {
+    background-image: url("../imgs/drew-coffman-1872.jpg");
+    background-size: cover;
+    background-position: center center;
+    min-height: 100vh;
+    position: relative;
+}
+
+.logo img {
+    float: left;
+    margin-left: 170px;
+    width: 10%;
+}
+
+.btn-first {
+    border-radius: 4%;
+    color: white;
+    padding: 15px 19px;
+    display: inline-block;
+    font-size: large;
+}
+
+.anchor1 {
+    border: 2px solid transparent;
+    background-color: #8e7754;
+}
+
+.btn-first:hover {
+    background-color: white;
+    color: black;
+}
+
+.anchor2 {
+    border: 2px solid white;
+    background-color: transparent;
+}
+
+
+/* section two */
+
+.icon-size {
+    width: 6%;
+    border: solid 1px rgba(0, 0, 0, 0.15);
+    border-radius: 50%;
+    vertical-align: middle;
+}
+
+/* .who-we-are {
+    padding: 25px;
+}
+
+.bread-img {
+    padding: 25px;
+} */
+
+/* section three */
+
+/* still empty need changes that you will do tomorrow isa */
+
+/* section four */
+
+.repeation2 {
+    width: 33.33%;
+    float: left;
+}
+
+
+/* section five */
+
+.icon-size2 {
+    width: 2%;
+    border: solid 1px #8e7754;
+    border-radius: 50%;
+    vertical-align: middle;
+    background-color: #8e7754;
+}
+
+.dis p {
+    display: inline-block;
+}
+
+/* section six */
+
+.item {
+    float: left;
+    width: 25%;
+}
+
+.item img {
+    width: 6%;
+}
+
+.dis-p p {
+    display: inline-block;
+}
+
+.p-inline {
+    display: inline;
+}
+
+.m-div {
+    margin-left: 15px;
+}
+
+/* section seven */
+
+/* .logo-footer {
+    width: %;
+} */
+
+
+
+.container7 {
+    background-color: #403d38;
+    margin: auto;
+    text-align: center;
+}
+
+.container7 p {
+    color: rgba(255, 255, 255, 0.25);
+}
+
+
+.img-foot img {
+    width: 24%;
+}
+
+.url-foot img {
+    width: 3%;
+    border: 1px solid transparent;
+    border-radius: 55%;
+}
+
+.f:hover {
+    background-color: #094a83;
+}
+
+.g:hover {
+    background-color: rgba(189, 65, 33, 0.886);
+}
+
+.l:hover {
+    background-color: #1c65a5;
+}
+
+.t:hover {
+    background-color: #0275d8;
+}
+
+body {
+    font-family: 'segoe ui light';
+}
